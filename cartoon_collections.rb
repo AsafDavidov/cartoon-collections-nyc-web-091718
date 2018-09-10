@@ -27,7 +27,7 @@ def find_the_cheese(snacks)# code an argument here
     if snacks.include?(cheese)
       return cheese
     else
-      return nil
     end
   end
+  nil
 end
